@@ -1,0 +1,10 @@
+JSON SERVER:
+
+-initiate pakage.JSON
+    npm init -y 
+
+-create pakage-lock.json 
+    npm i
+
+-install json serrver 
+    npm i json-server [node modules create automatically]
